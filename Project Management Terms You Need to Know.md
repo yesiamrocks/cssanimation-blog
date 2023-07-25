@@ -1,7 +1,7 @@
-[#**Project Management Terms You Need to Know**
+[# **Project Management Terms You Need to Know**
 ** ** ](https://cssanimation.io/blog/project-management-terms-you-need-to-know/)
 
-[July 19, 2023](https://cssanimation.io/blog/2023/07/)  [#Agile](https://cssanimation.io/blog/tag/agile/), [#PMP](https://cssanimation.io/blog/tag/pmp/), [#ProjectManagement](https://cssanimation.io/blog/tag/projectmanagement/), [#Scrum](https://cssanimation.io/blog/tag/scrum/)
+[July 19, 2023](https://cssanimation.io/blog/2023/07/)  [# Agile](https://cssanimation.io/blog/tag/agile/), [# PMP](https://cssanimation.io/blog/tag/pmp/), [# ProjectManagement](https://cssanimation.io/blog/tag/projectmanagement/), [# Scrum](https://cssanimation.io/blog/tag/scrum/)
 
 [![](RackMultipart20230725-1-3fodip_html_2b0dfc01cc821647.jpg)](https://cssanimation.io/blog/project-management-terms-you-need-to-know/)
 
@@ -9,7 +9,7 @@ Project management is the process of leading a team to achieve a specific goal o
 
 If you are new to project management or want to refresh your knowledge, you may encounter some terms that are specific to this field. To help you understand these terms better, we have compiled a list of common project management terms and their definitions.
 
-#**Welcome to our comprehensive glossary of project management terms.**
+# **Welcome to our comprehensive glossary of project management terms.**
 
 As a project manager, it's essential to have a solid understanding of the terminology used in the field. Whether you're a seasoned professional or just starting, this glossary will serve as a valuable resource to help you navigate the world of project management with confidence.
 
@@ -37,7 +37,7 @@ Let's begin our journey into the world of project management terminology!
 
 **Agile:**  A project management methodology that emphasizes flexibility, collaboration, and customer feedback. Agile projects are divided into short iterations or sprints, where the team delivers working increments of the product and adapts to changing requirements.
 
-#**B**
+# **B**
 
 **Baseline:**  The original plan for a project's scope, schedule, and cost. The baseline serves as a reference point for measuring the project's performance and progress.
 
@@ -47,7 +47,7 @@ Let's begin our journey into the world of project management terminology!
 
 **Budget:**  The estimated or allocated amount of money for a project or a project component.
 
-#**C**
+# **C**
 
 **Change Control:**  The process of managing changes to the project's scope, schedule, cost, quality, or resources. Change control involves identifying, evaluating, approving, implementing, and communicating changes.
 
@@ -61,7 +61,7 @@ Let's begin our journey into the world of project management terminology!
 
 **Communication Plan:**  A document that describes how information will be exchanged among the project team and stakeholders. It includes details such as communication methods, frequency, content, format, roles, and responsibilities.
 
-#**D**
+# **D**
 
 **Deliverable:**  A tangible or intangible product or service that is produced by a project and delivered to the client or stakeholder. Deliverables can be internal or external, interim, or final.
 
@@ -73,7 +73,7 @@ Let's begin our journey into the world of project management terminology!
 
 **Eight Principles:**  focus on business needs, deliver on time, collaborate, never compromise quality, build incrementally from firm foundations, develop iteratively, communicate continuously and clearly, and demonstrate control.
 
-#**E**
+# **E**
 
 **Earned Value (EV):**The value of the work completed in a given period. EV is calculated by multiplying the percentage of work completed by the planned value (PV) of that work.
 
@@ -83,7 +83,7 @@ Let's begin our journey into the world of project management terminology!
 
 **Estimate:**  An approximation of the time, cost, resources, or quality required for an activity, task, deliverable, or project. Estimates can be rough order of magnitude (ROM), budgetary, definitive, or probabilistic.
 
-#**F**
+# **F**
 
 **Feasibility Study:**  An analysis that evaluates the viability of a project idea or proposal based on various criteria such as technical feasibility, economic feasibility, legal feasibility, operational feasibility, and schedule feasibility.
 
@@ -93,19 +93,19 @@ Let's begin our journey into the world of project management terminology!
 
 **Float:** The amount of time that an activity can be delayed without affecting the start or finish dates of other activities or the project. Float is also known as slack.
 
-#**G**
+# **G**
 
 **Gantt chart:**  A type of bar chart that illustrates the project schedule and shows the start and finish dates of activities and tasks. A Gantt chart can also show dependencies between activities and tasks, milestones, resources, and progress.
 
 **Goal:**  A specific and measurable outcome that a project aims to achieve within a defined scope and timeframe. A goal is also known as an objective.
 
-#**H**
+# **H**
 
 **Human Resource Management:**  The process of planning, acquiring, developing, and managing the project team. Human resource management involves defining roles and responsibilities, assigning tasks, providing feedback, resolving conflicts, and motivating team members.
 
 **Hybrid:**  A project management approach that combines elements of different methodologies, such as waterfall and agile. Hybrid projects aim to balance structure and flexibility and to adapt to changing requirements and constraints.
 
-#**I**
+# **I**
 
 **Implementation:**  The phase of a project where the project team executes the project plan and produces the project deliverables. Implementation involves coordinating resources, managing risks, monitoring progress, and communicating with stakeholders.
 
@@ -115,19 +115,19 @@ Let's begin our journey into the world of project management terminology!
 
 **Iteration:**  A cycle of work in an agile project where the team plans, designs, develops, tests, and delivers a working increment of the product. An iteration is also known as a sprint.
 
-#**J**
+# **J**
 
 **Just-in-time (JIT):** A production strategy that aims to reduce waste and inventory by producing or delivering goods only when they are needed. JIT can improve efficiency and quality by minimizing delays and defects.
 
 **Journey Map:**  A visual representation of a user's experience with a product or service over time. A journey map can show the user's actions, emotions, pain points, and opportunities for improvement.
 
-#**K**
+# **K**
 
 **Key performance indicator (KPI):** A metric that measures how well a project or a process is achieving its objectives. KPIs can be quantitative or qualitative and can be aligned with the project's scope, schedule, cost, quality, or benefits.
 
 **Kickoff Meeting:**  A meeting that marks the official start of a project or a project phase. A kickoff meeting involves introducing the project team and stakeholders, reviewing the project charter and plan, setting expectations and ground rules, and addressing any questions or concerns.
 
-#**L**
+# **L**
 
 **Lag:**  The amount of time that must pass between the finish of one activity and the start of another activity that depends on it. Lag is also known as waiting time or lead time.
 
@@ -137,7 +137,7 @@ Let's begin our journey into the world of project management terminology!
 
 **Lifecycle:**  The sequence of phases or stages that a project goes through from initiation to closure. A lifecycle can be predictive, adaptive, or hybrid, depending on the project's complexity and uncertainty.
 
-#**M**
+# **M**
 
 **Milestone:** A significant event or achievement in a project that marks the completion of a major deliverable or a set of related activities. Milestones have zero duration and can be used to monitor progress and communicate status.
 
@@ -154,13 +154,13 @@ MoSCoW can help the project team focus on the most important and valuable featur
 
 **Motivation:**  The process of stimulating and inspiring the project team to perform at their best. Motivation can involve providing recognition, rewards, feedback, autonomy, or growth opportunities.
 
-#**N**
+# **N**
 
 **Negotiation:**  The process of reaching an agreement or a compromise between two or more parties that have different interests or perspectives. Negotiation can involve resolving conflicts, managing expectations, allocating resources, or defining scope.
 
 **Network Diagram:**  A graphical representation of the logical relationships and dependencies between the activities or tasks in a project. A network diagram can help the project team plan and schedule the project, identify critical paths, and estimate duration and resources.
 
-#**O**
+# **O**
 
 **Objective:** A specific and measurable outcome that a project aims to achieve within a defined scope and timeframe. An objective is also known as a goal.
 
@@ -170,7 +170,7 @@ MoSCoW can help the project team focus on the most important and valuable featur
 
 **Outcome:** The result or effect of a project's deliverables on the customer or stakeholder. Outcomes can be tangible or intangible and can be measured by benefits or value.
 
-#**P**
+# **P**
 
 **Performance Measurement Baseline (PMB):** The approved plan for a project's scope, schedule, and cost. The PMB serves as a reference point for measuring and controlling the project's performance and progress.
 
@@ -202,13 +202,13 @@ MoSCoW can help the project team focus on the most important and valuable featur
 
 **Project:** A temporary endeavor undertaken to create a unique product, service, or result. A project has a defined beginning and end, a specific scope and objectives, and assigned resources and constraints.
 
-#**Q**
+# **Q**
 
 **Quality:**  The degree to which a product or service meets the customer's needs or expectations. Quality can be measured by various criteria such as functionality, reliability, usability, performance, aesthetics, or compliance.
 
 **Quality Assurance (QA):**The process of ensuring that quality standards and requirements are met throughout the project lifecycle. QA involves applying quality policies, methods
 
-#**R**
+# **R**
 
 **RACI Matrix:**  A tool for clarifying and defining the roles and responsibilities of each person or group involved in a project or a process. RACI stands for Responsible, Accountable, Consulted, and Informed.
 
@@ -232,7 +232,7 @@ MoSCoW can help the project team focus on the most important and valuable featur
 
 **Risk Register:**  A document that records and tracks all the identified risks and their characteristics, such as causes, triggers, probability, impact, status, and response strategies. A risk register is also known as a risk log.
 
-#**S**
+# **S**
 
 **Schedule:** A document that shows the planned start and finish dates of the activities or tasks in a project. A schedule can be presented in various formats, such as a table, a chart, a diagram, or a calendar.
 
@@ -274,7 +274,7 @@ MoSCoW can help the project team focus on the most important and valuable featur
 
 **Status Report:** A document that summarizes the current status and performance of a project or a project component. A status report typically includes information such as accomplishments, issues, risks, action items, and metrics.
 
-#**T**
+# **T**
 
 **Task:**  A unit of work that needs to be done to complete an activity or a deliverable in a project. A task has a description, a duration, a start, and finish date, and assigned resources.
 
@@ -284,7 +284,7 @@ MoSCoW can help the project team focus on the most important and valuable featur
 
 **Triple Constraint:** A framework that describes the interrelationship between the three main factors that affect a project's performance and success: scope, time, and cost. The triple constraint is also known as the iron triangle or the project management triangle.
 
-#**U**
+# **U**
 
 **User Acceptance Testing (UAT):** A type of testing where the end users or customers verify that a product or service meets their needs and expectations before it is delivered or deployed. UAT is also known as beta testing or end-user testing.
 
@@ -292,7 +292,7 @@ MoSCoW can help the project team focus on the most important and valuable featur
 
 **Utilization:** The ratio of the actual time or effort spent on an activity or task to the planned or available time or effort. Utilization can be used to measure the efficiency and productivity of resources.
 
-#**V**
+# **V**
 
 **Value:**  The benefit or worth of a product or service for the customer or stakeholder. Value can be measured by various criteria, such as quality, functionality, usability, performance, satisfaction, or return on investment.
 
@@ -302,7 +302,7 @@ MoSCoW can help the project team focus on the most important and valuable featur
 
 **Vendor:**  A person or organization that provides goods or services to a project or an organization. A vendor is also known as a supplier or a contractor.
 
-#**W**
+# **W**
 
 **Waterfall:** A traditional project management methodology that follows a linear and sequential approach. Waterfall projects are divided into distinct phases, such as initiation, planning, design, development, testing, deployment, and closure. Each phase must be completed before moving on to the next one.
 
@@ -310,7 +310,7 @@ MoSCoW can help the project team focus on the most important and valuable featur
 
 **Work Package:**  The lowest level of the work breakdown structure (WBS) that defines a specific unit of work that can be assigned and executed by a team member or a group. A work package has a description, duration, budget, assigned resources, and acceptance criteria.
 
-#**Final Thoughts**
+# **Final Thoughts**
 
 This glossary is continuously updated to ensure it remains relevant and comprehensive. We encourage you to bookmark this page and refer back to it whenever you encounter unfamiliar project management terms or need a quick definition.
 
