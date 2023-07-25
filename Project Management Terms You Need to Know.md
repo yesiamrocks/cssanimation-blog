@@ -1,9 +1,7 @@
-[# **Project Management Terms You Need to Know**
-** ** ](https://cssanimation.io/blog/project-management-terms-you-need-to-know/)
+[# Project Management Terms You Need to Know](https://cssanimation.io/blog/project-management-terms-you-need-to-know/)
 
-[July 19, 2023](https://cssanimation.io/blog/2023/07/)  [# Agile](https://cssanimation.io/blog/tag/agile/), [# PMP](https://cssanimation.io/blog/tag/pmp/), [# ProjectManagement](https://cssanimation.io/blog/tag/projectmanagement/), [# Scrum](https://cssanimation.io/blog/tag/scrum/)
+## Tag: [# Agile](https://cssanimation.io/blog/tag/agile/), [# PMP](https://cssanimation.io/blog/tag/pmp/), [# ProjectManagement](https://cssanimation.io/blog/tag/projectmanagement/), [# Scrum](https://cssanimation.io/blog/tag/scrum/)
 
-[![](RackMultipart20230725-1-3fodip_html_2b0dfc01cc821647.jpg)](https://cssanimation.io/blog/project-management-terms-you-need-to-know/)
 
 Project management is the process of leading a team to achieve a specific goal or deliver a product within a given timeframe and budget. Project management involves planning, organizing, executing, controlling, and closing the work of a project team. Project management also requires effective communication, documentation, and tracking of the project's progress and performance.
 
