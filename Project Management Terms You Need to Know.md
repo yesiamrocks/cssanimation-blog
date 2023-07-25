@@ -17,7 +17,7 @@ In this blog post, we have compiled an extensive list of common project manageme
 
 Let's begin our journey into the world of project management terminology!
 
-#A
+# A
 
 **Acceptance Criteria:**  The specific requirements that a project deliverable must meet to be accepted by the customer or stakeholder.
 
